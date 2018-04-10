@@ -1,0 +1,7 @@
+INSERT INTO 'STOCK'
+('ID_GRAINE','QUANTITE')
+VALUES 
+	(1,200),
+	(2,300),
+	(3,170),
+	(4,222);
