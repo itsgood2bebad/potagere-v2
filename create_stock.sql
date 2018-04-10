@@ -1,8 +1,8 @@
-CREATE TABLE stock
+CREATE TABLE STOCK
 (
-    id INT NOT NULL AUTO_INCREMENT,
-    nom VARCHAR(100),
-    provenance VARCHAR(100),
+    ID INT NOT NULL AUTO_INCREMENT,
+    ID_GRAINE INT,
+    ID_FOURNISSEUR INT,
     quantite INT
     
 )
