@@ -3,5 +3,4 @@ INSERT INTO 'PANIER'
 VALUES
           (001,000,74),
           (NULL,031,7,89),
-          (473,NULL,230),
-          
+          (473,NULL,230);
