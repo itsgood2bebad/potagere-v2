@@ -1,0 +1,11 @@
+source graine_potager.sql;
+source create_utilisateur.sql;
+source create_visiteur.sql;
+source create_panier.sql;
+source create_achat.sql;
+source create_achat_fournisseur.sql;
+source create_mapping_panier_graine.sql;
+source create_promotion.sql;
+source create_mapping_promotion_graine.sql;
+source create_produit_recherche.sql;
+source create_stock.sql;
