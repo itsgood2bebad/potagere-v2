@@ -3,7 +3,7 @@ INSERT INTO PROMOTION
 
 VALUES 
 
-('soldes_ete', DATE("01/07/2018"), DATE("30/09/2018")), 
-('soldes_hiver', DATE("06/01/2019"), DATE("30/02/2019")),
-('week_end_folies', DATE("08/04/2018"), DATE("09/04/2018")),
-('special_jardin', DATE("10/05/2018"), DATE("18/05/2018"));
+('soldes_ete', DATE("2018-09-09"), DATE("2018-05-08")), 
+('soldes_hiver', DATE("2019-12-31"), DATE("2019-01-30")),
+('week_end_folies', DATE("2018-04-08"), DATE("2018-04-09")),
+('special_jardin', DATE("2018-05-10"), DATE("2018-05-18"));
